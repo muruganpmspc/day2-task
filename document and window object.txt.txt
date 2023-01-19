@@ -1,0 +1,9 @@
+                                 Difference between document and window objects: -
+
+ Document is if we need anything from browser it was displayed the content from the internet,
+If open tab shown content called document. window objects are document content shown 
+in the browser is called window objects.  Objects is a key value pairs then contains a html all 
+Tags/elements like that head, title, paragraph, body, div all tags, window contains a JavaScript all 
+JavaScript running in a window pages, document and window objects like a structure of parent and 
+Tree format, line by line execute the program, window access a window object only, document 
+Access only webpage browser…
